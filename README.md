@@ -2,7 +2,7 @@
 
 Developed in the courses of alura.com.br
 
-Course Links:
+Courses Links:
 
 https://alura.com.br/curso-online-spring-boot-api-rest
 
